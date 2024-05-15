@@ -5,16 +5,19 @@ When I'm not squashing or preventing bugs, I'm moonlighting as a front-end devel
 ## Technology and Tools Stack
 
 🚀 Automation Tools 
+
 [<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" height="25"/>](https://selenium.dev/)
 [<img src="https://img.shields.io/badge/WebdriverIO-EA5906?style=for-the-badge&logo=webdriverio&logoColor=white" height="25"/>](https://webdriver.io/)
 [<img src="https://img.shields.io/badge/Appium-000000?style=for-the-badge&logo=appium&logoColor=white" height="25"/>](https://appium.io/)
 
 🛠️ Other Tools
+
 [<img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apache-jmeter&logoColor=white" height="25"/>](https://jmeter.apache.org/)
 [<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="25"/>](https://www.postman.com/)
 [<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="25"/>](https://git-scm.com/)
 
 💻 Programming
+
 [<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="25"/>](https://www.java.com/)
 [<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="25"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25"/>](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
@@ -22,6 +25,7 @@ When I'm not squashing or preventing bugs, I'm moonlighting as a front-end devel
 [<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="25"/>](https://www.mysql.com/)
 
 🌐 Front-end Development
+
 [<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="25"/>](https://getbootstrap.com/)
 [<img src="https://img.shields.io/badge/Responsive_Design-0096D6?style=for-the-badge&logo=responsive&logoColor=white" height="25"/>]()
 [<img src="https://img.shields.io/badge/SEO-4285F4?style=for-the-badge&logo=google&logoColor=white" height="25"/>]()

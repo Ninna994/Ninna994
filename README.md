@@ -5,7 +5,7 @@ When I'm not squashing or preventing bugs, I'm moonlighting as a front-end devel
 ## Technology and Tools Stack
 
 🚀 Automation Tools 
-[<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" height="23"/>](https://selenium.dev/)
+[<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" height="25"/>](https://selenium.dev/)
 [<img src="https://img.shields.io/badge/WebdriverIO-EA5906?style=for-the-badge&logo=webdriverio&logoColor=white" height="25"/>](https://webdriver.io/)
 [<img src="https://img.shields.io/badge/Appium-000000?style=for-the-badge&logo=appium&logoColor=white" height="25"/>](https://appium.io/)
 

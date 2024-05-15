@@ -33,7 +33,7 @@ When I'm not squashing or preventing bugs, I'm moonlighting as a front-end devel
 
 ### Let's connect
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="20"/>](https://www.linkedin.com/in/nikolina-djekic/)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25"/>](https://www.linkedin.com/in/nikolina-djekic/)
 
 ## 🌱 Continuous Learning
 
